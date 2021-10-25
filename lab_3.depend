@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1634992674 source:c:\users\anna\desktop\stc\projects\lab_3\main.cpp
+	"lab3.h"
+	<iostream>
+
+1634992746 c:\users\anna\desktop\stc\projects\lab_3\lab3.h
+	<string>
+
+1634992623 source:c:\users\anna\desktop\stc\projects\lab_3\lab3.cpp
+	"lab3.h"
+	<iostream>
+	<string>
+
